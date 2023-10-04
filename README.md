@@ -1,4 +1,4 @@
-# funtoken-test
+# funtoken-assessment
 
 1. import products.sql
 2. start MySQL server
